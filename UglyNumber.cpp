@@ -1,7 +1,3 @@
-#include <iostream>
-
-using namespace std;
-
 class Solution {
 	public:
 		bool isUgly(int num) {
@@ -19,10 +15,3 @@ class Solution {
 			return false;
 		}
 };
-
-int main() {
-	Solution s = Solution();
-	cout << s.isUgly(0) << endl;
-	return 0;
-}
-
