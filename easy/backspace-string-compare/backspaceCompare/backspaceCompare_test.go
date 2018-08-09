@@ -20,7 +20,7 @@ func Test(t *testing.T) {
 	for _, c := range tests {
 		got := BackspaceCompare(c.s, c.t)
 		if got != c.want {
-			t.Errorf("backspaceCompare(%q, %q) == %t, want %t", c.s, c.t, got, c.want)
+			t.Errorf("BackspaceCompare(%q, %q) == %t, want %t", c.s, c.t, got, c.want)
 		}
 	}
 }
