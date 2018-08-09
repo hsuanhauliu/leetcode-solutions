@@ -11,9 +11,9 @@ import (
 )
 
 func main() {
-	fmt.Println("ab#c and ad#c:\n", backspaceCompare.backspaceCompare("ab#c", "ad#c"), "\n")
-	fmt.Println("ab## and c#d#:\n", backspaceCompare.backspaceCompare("ab##", "c#d#"), "\n")
-	fmt.Println("a##c and #a#c:\n", backspaceCompare.backspaceCompare("a##c", "#a#c"), "\n")
-	fmt.Println("a#c and b:\n", backspaceCompare.backspaceCompare("a#c", "b"), "\n")
+	fmt.Println("ab#c and ad#c:\n", backspaceCompare.BackspaceCompare("ab#c", "ad#c"), "\n")
+	fmt.Println("ab## and c#d#:\n", backspaceCompare.BackspaceCompare("ab##", "c#d#"), "\n")
+	fmt.Println("a##c and #a#c:\n", backspaceCompare.BackspaceCompare("a##c", "#a#c"), "\n")
+	fmt.Println("a#c and b:\n", backspaceCompare.BackspaceCompare("a#c", "b"), "\n")
 
 }
