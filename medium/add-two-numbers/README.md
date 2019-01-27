@@ -1,4 +1,6 @@
 # Add Two Numbers
-Problem [Link](https://leetcode.com/problems/add-two-numbers/description/): https://leetcode.com/problems/add-two-numbers/description/  
-Difficulty: medium  
-File submitted: addTwoNumbers.py
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|2|[Link](https://leetcode.com/problems/add-two-numbers/description/)|Medium|addTwoNumbers.py|
+
+## Additional Notes

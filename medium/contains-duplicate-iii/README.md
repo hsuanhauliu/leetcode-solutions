@@ -1,8 +1,7 @@
-# 220. Contains Duplicate III
-Problem Link: https://leetcode.com/problems/contains-duplicate-iii/description/  
-Difficulty: medium  
-File submitted: submitted_code.go
+# Contains Duplicate III
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|220|[Link](https://leetcode.com/problems/contains-duplicate-iii/description/)|Medium|submitted_code.go|
 
-### Notes
-- /containsNearbyAlmostDuplicate: the package that contains the solution and test file.
-- submitted_code.go: the actual code that I submitted on Leetcode.
+## Additional Notes
+- /containsNearbyAlmostDuplicate: package that contains the solution and test file.

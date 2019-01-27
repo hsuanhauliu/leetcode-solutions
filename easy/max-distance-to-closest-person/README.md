@@ -1,4 +1,6 @@
 # Maximize Distance to Closest Person
-Problem [Link](https://leetcode.com/problems/maximize-distance-to-closest-person/description/): https://leetcode.com/problems/maximize-distance-to-closest-person/description/  
-Difficulty: easy  
-File submitted: MaxDistanceToClosestPerson.py
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|849|[Link](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|Easy|MaxDistanceToClosestPerson.py|
+
+## Additional Notes

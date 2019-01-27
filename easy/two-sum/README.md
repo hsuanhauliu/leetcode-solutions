@@ -1,4 +1,6 @@
 # Two Sum
-Problem [Link](https://leetcode.com/problems/two-sum/description/): https://leetcode.com/problems/two-sum/description/  
-Difficulty: easy  
-File submitted: TwoSum.h
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|1|[Link](https://leetcode.com/problems/two-sum/description/)|Easy|TwoSum.h|
+
+## Additional Notes

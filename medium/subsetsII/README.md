@@ -1,4 +1,6 @@
 # Subset II
-Problem [Link](https://leetcode.com/problems/subsets-ii/)  
-Difficulty: medium  
-File submitted: SubsetII.py
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|90|[Link](https://leetcode.com/problems/subsets-ii/)|Medium|SubsetII.py|
+
+## Additional Notes

@@ -1,4 +1,6 @@
-# 315 Count of Smaller Numbers After Self
-Problem [Link](https://leetcode.com/problems/count-of-smaller-numbers-after-self/): https://leetcode.com/problems/count-of-smaller-numbers-after-self/  
-Difficulty: hard  
-File submitted: CountOfSmallerNumbersAfterSelf.py
+# Count of Smaller Numbers After Self
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|315|[Link](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|CountOfSmallerNumbersAfterSelf.py|
+
+## Additional Notes

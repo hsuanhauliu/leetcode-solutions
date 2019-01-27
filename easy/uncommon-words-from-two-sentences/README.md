@@ -1,4 +1,6 @@
 # Uncommon Words from Two Sentences
-Problem: https://leetcode.com/problems/uncommon-words-from-two-sentences/description/  
-Difficulty: easy  
-File submitted: UncommonWordsfromTwoSentences.py
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|884|[Link](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)|Easy|UncommonWordsfromTwoSentences.py|
+
+## Additional Notes

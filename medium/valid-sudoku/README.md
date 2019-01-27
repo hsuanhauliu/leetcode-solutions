@@ -1,4 +1,6 @@
 # Valid Sudoku
-Problem [Link](https://leetcode.com/problems/valid-sudoku/description/): https://leetcode.com/problems/valid-sudoku/description/  
-Difficulty: medium  
-File submitted: ValidSudoku.java
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|36|[Link](https://leetcode.com/problems/valid-sudoku/description/)|Medium|ValidSudoku.java|
+
+## Additional Notes

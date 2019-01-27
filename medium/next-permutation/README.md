@@ -1,4 +1,6 @@
 # NextPermutation
-Problem [Link](https://leetcode.com/problems/next-permutation/description/): https://leetcode.com/problems/next-permutation/description/  
-Difficulty: medium  
-File submitted: NextPermutation.py
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|31|[Link](https://leetcode.com/problems/next-permutation/description/)|Medium|NextPermutation.py|
+
+## Additional Notes

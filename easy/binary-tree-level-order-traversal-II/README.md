@@ -1,8 +1,7 @@
 # Binary Tree Level Order Traversal II
-Problem [Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/): https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/  
-Difficulty: easy  
-File submitted: submission.h  
-Files for testing purposes:
-1. Solution.h: solution implementation
-2. TreeNode.h: tree node structure
-3. test_script.cpp: main file for testing
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|107|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|Easy|submission.h|
+
+## Additional Notes
+- Solution.h, TreeNode.h, test_script.cpp: files for testing.

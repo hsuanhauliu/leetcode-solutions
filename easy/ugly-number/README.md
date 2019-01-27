@@ -1,4 +1,6 @@
 # Ugly Number
-Problem [Link](https://leetcode.com/problems/ugly-number/description/): https://leetcode.com/problems/ugly-number/description/  
-Difficulty: easy  
-File submitted: UglyNumber.h
+|#|Description|Difficulty|Solution File|
+|-|-|-|-|
+|263|[Link](https://leetcode.com/problems/ugly-number/description/)|Easy|UglyNumber.h|
+
+## Additional Notes
