@@ -1,5 +1,8 @@
-# README template for each problem
-README_template.md
+# Template for each solution
+template/
+
+# Mac
+.DS_Store
 
 ######################## Python ########################
 # Byte-compiled / optimized / DLL files
