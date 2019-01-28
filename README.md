@@ -18,6 +18,7 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-two-numbers)|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/longest-substring-without-repeating-characters)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/zigzag-conversion)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/next-permutation)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-in-rotated-sorted-array)|
@@ -27,6 +28,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
+|508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
 
