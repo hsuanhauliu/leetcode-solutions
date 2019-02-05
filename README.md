@@ -4,6 +4,8 @@
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/two-sum)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/reverse-integer)|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/palindrome-number)|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/roman-to-integer)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/implement-strStr)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-depth-of-binary-tree)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-tree-level-order-traversal-II)|
