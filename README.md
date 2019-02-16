@@ -27,10 +27,13 @@
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/zigzag-conversion)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/container-with-most-water)|
 |12|[https://leetcode.com/problems/integer-to-roman/](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/integer-to-roman)|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/letter-combinations-of-a-phone-number)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/next-permutation)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-in-rotated-sorted-array)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Java](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/valid-sudoku)|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/permutations)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/rotate-image)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/group-anagrams)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
