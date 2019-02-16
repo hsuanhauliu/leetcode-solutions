@@ -12,6 +12,7 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-depth-of-binary-tree)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-tree-level-order-traversal-II)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/minimum-depth-of-binary-tree)|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-anagram)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/backspace-string-compare)|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/max-distance-to-closest-person)|
@@ -26,7 +27,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/longest-palindromic-substring)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/zigzag-conversion)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/container-with-most-water)|
-|12|[https://leetcode.com/problems/integer-to-roman/](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/integer-to-roman)|
+|12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/integer-to-roman)|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/letter-combinations-of-a-phone-number)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/next-permutation)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-in-rotated-sorted-array)|
@@ -45,6 +46,7 @@
 ## Difficulty: Hard
 | # | Title | Solution |
 |---| ----- | -------- |
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/longest-valid-parentheses)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/sudoku-solver)|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/count-of-smaller-numbers-after-self)|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/erect-the-fence)|
