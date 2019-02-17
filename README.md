@@ -8,6 +8,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/roman-to-integer)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/longest-common-prefix)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-parentheses)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/remove-element)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/implement-strStr)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-depth-of-binary-tree)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-tree-level-order-traversal-II)|
