@@ -38,6 +38,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/group-anagrams)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/flatten-binary-tree-to-linked-list)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
