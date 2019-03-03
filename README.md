@@ -41,6 +41,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/flatten-binary-tree-to-linked-list)|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/triangle)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
