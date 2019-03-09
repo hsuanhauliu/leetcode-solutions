@@ -37,6 +37,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/permutations)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/rotate-image)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/group-anagrams)|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/jump-game)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
