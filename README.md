@@ -40,6 +40,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/jump-game)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-path-sum)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix)|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/word-search)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/flatten-binary-tree-to-linked-list)|
