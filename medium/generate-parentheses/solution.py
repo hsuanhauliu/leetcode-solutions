@@ -13,6 +13,3 @@ class Solution:
             self.build_parentheses_recursive(all_parentheses, curr_str + '(', left - 1, right + 1)
         if right > 0:
             self.build_parentheses_recursive(all_parentheses, curr_str + ')', left, right - 1)
-
-sol = Solution()
-print(sol.generateParenthesis(4))
