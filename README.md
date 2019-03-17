@@ -40,6 +40,7 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/rotate-image)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/group-anagrams)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/jump-game)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/merge-intervals)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-path-sum)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix)|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/word-search)|
