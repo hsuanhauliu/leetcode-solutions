@@ -15,6 +15,8 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-depth-of-binary-tree)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-tree-level-order-traversal-II)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/minimum-depth-of-binary-tree)|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/linked-list-cycle)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/number-of-1-bits)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-anagram)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/backspace-string-compare)|
