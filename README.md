@@ -1,5 +1,7 @@
 # LeetCode Solutions
+
 ## Difficulty: Easy
+
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/two-sum)|
@@ -25,9 +27,11 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/backspace-string-compare)|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/max-distance-to-closest-person)|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/uncommon-words-from-two-sentences)|
-
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/largest-perimeter-triangle)|
+||[]()|[]()|
 
 ## Difficulty: Medium
+
 | # | Title | Solution |
 |---| ----- | -------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-two-numbers)|
@@ -59,11 +63,14 @@
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/range-sum-of-bst)|
+||[]()|[]()|
 
 ## Difficulty: Hard
+
 | # | Title | Solution |
 |---| ----- | -------- |
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/longest-valid-parentheses)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/sudoku-solver)|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/count-of-smaller-numbers-after-self)|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/erect-the-fence)|
+||[]()|[]()|
