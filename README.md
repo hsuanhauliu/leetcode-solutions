@@ -20,6 +20,8 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-anagram)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/letter-case-permutation)|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/most-common-word)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/backspace-string-compare)|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/max-distance-to-closest-person)|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/uncommon-words-from-two-sentences)|
