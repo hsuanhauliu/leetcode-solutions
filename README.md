@@ -65,7 +65,9 @@
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/number-of-subarrays-with-bounded-maximum)|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/koko-eating-bananas)|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/online-stock-span)|
+|930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/binary-subarrays-with-sum)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/range-sum-of-bst)|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/distribute-coins-in-binary-tree)|
 ||[]()|[]()|
