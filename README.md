@@ -22,7 +22,9 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-anagram)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
+|748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/shortest-completing-word)|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/letter-case-permutation)|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/most-common-word)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/backspace-string-compare)|
@@ -62,6 +64,8 @@
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-one-row-to-tree)|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/maximum-length-of-pair-chain)|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/number-of-subarrays-with-bounded-maximum)|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
