@@ -82,6 +82,7 @@
 |---| ----- | -------- |
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/longest-valid-parentheses)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/sudoku-solver)|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://leetcode.com/problems/sudoku-solver/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/minimum-window-substring)|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/count-of-smaller-numbers-after-self)|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/erect-the-fence)|
 ||[]()|[]()|
