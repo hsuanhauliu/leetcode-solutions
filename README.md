@@ -21,6 +21,7 @@
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/number-of-1-bits)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-anagram)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/first-bad-version)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
@@ -61,6 +62,7 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/flatten-binary-tree-to-linked-list)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/triangle)|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/find-peak-element/)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
