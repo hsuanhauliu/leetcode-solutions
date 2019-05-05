@@ -23,6 +23,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/first-bad-version)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/intersection-of-two-arrays-ii)|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-watch)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/island-perimeter)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
@@ -67,8 +68,10 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/triangle)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/find-peak-element/)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix-ii)
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/beautiful-arrangement)
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-one-row-to-tree)|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/maximum-length-of-pair-chain)|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
