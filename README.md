@@ -23,6 +23,8 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/first-bad-version)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-watch)|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/island-perimeter)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/shortest-completing-word)|
@@ -59,6 +61,7 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix)|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/word-search)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/subsetsII)|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/unique-binary-search-trees-ii)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/flatten-binary-tree-to-linked-list)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/triangle)|
@@ -72,6 +75,7 @@
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/number-of-subarrays-with-bounded-maximum)|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/koko-eating-bananas)|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/boats-to-save-people)|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/online-stock-span)|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/binary-subarrays-with-sum)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/range-sum-of-bst)|
