@@ -10,6 +10,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/roman-to-integer)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/longest-common-prefix)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-parentheses)|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/merge-two-sorted-lists)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/remove-element)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/implement-strStr)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-subarray)|
