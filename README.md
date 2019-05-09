@@ -77,6 +77,7 @@
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/maximum-length-of-pair-chain)|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/number-of-subarrays-with-bounded-maximum)|
+|825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/friends-of-appropriate-ages)|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/koko-eating-bananas)|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/boats-to-save-people)|
