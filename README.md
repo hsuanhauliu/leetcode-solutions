@@ -22,10 +22,12 @@
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/number-of-1-bits)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-anagram)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/ugly-number)|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/missing-number)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/first-bad-version)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/intersection-of-two-arrays-ii)|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-watch)|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/third-maximum-number)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/island-perimeter)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
@@ -84,6 +86,7 @@
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/online-stock-span)|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/binary-subarrays-with-sum)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/range-sum-of-bst)|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/k-closest-points-to-origin)|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/distribute-coins-in-binary-tree)|
 ||[]()|[]()|
 
