@@ -77,8 +77,10 @@
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix-ii)
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/next-greater-element-ii)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/beautiful-arrangement)
+|593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/valid-square)|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-one-row-to-tree)|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/maximum-length-of-pair-chain)|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/monotone-increasing-digits)|
