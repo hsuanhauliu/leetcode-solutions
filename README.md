@@ -35,7 +35,7 @@
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/shortest-completing-word)|
-|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/letter-case-permutation)|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/letter-case-permutation)|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/most-common-word)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/backspace-string-compare)|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/max-distance-to-closest-person)|
@@ -82,7 +82,7 @@
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/next-greater-element-ii)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](ttps://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/longest-word-in-dictionary-through-deleting)|
-|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/beautiful-arrangement)
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/beautiful-arrangement)|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/valid-square)|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-one-row-to-tree)|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/maximum-length-of-pair-chain)|
@@ -92,7 +92,7 @@
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/shifting-letters)|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/koko-eating-bananas)|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/boats-to-save-people)|
-|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://leetcode.com/problems/shifting-letters/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/online-stock-span)|
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/online-stock-span)|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/binary-subarrays-with-sum)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/range-sum-of-bst)|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/k-closest-points-to-origin)|
@@ -105,7 +105,7 @@
 |---| ----- | -------- |
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/longest-valid-parentheses)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/sudoku-solver)|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://leetcode.com/problems/sudoku-solver/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/minimum-window-substring)|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/minimum-window-substring)|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/count-of-smaller-numbers-after-self)|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/hard/erect-the-fence)|
 ||[]()|[]()|
