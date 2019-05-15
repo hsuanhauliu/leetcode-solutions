@@ -29,6 +29,7 @@
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/power-of-three)|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/intersection-of-two-arrays-ii)|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/binary-watch)|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/sum-of-left-leaves)|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/third-maximum-number)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/island-perimeter)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
@@ -61,6 +62,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/permutations)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/rotate-image)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/group-anagrams)|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/spiral-matrix)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/jump-game)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/merge-intervals)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/unique-paths)|
@@ -79,6 +81,7 @@
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/minimum-number-of-arrows-to-burst-balloons)|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/next-greater-element-ii)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/most-frequent-subtree-sum)|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](ttps://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/longest-word-in-dictionary-through-deleting)|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/beautiful-arrangement)
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/valid-square)|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/add-one-row-to-tree)|
