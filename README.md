@@ -33,9 +33,11 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/sum-of-left-leaves)|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/third-maximum-number)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/island-perimeter)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/max-consecutive-ones)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-palindrome-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](easy/min-cost-climbing-stairs)|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/shortest-completing-word)|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/letter-case-permutation)|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/most-common-word)|
