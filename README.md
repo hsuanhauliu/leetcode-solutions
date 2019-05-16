@@ -13,6 +13,7 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/merge-two-sorted-lists)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/remove-element)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/implement-strStr)|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/search-insert-position)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-subarray)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/same-tree)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/maximum-depth-of-binary-tree)|
@@ -33,6 +34,7 @@
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/third-maximum-number)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/island-perimeter)|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/range-addition-ii)|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/valid-palindrome-ii)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/1-bit-and-2-bit-characters/)|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/shortest-completing-word)|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/easy/letter-case-permutation)|
@@ -75,6 +77,7 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/validate-binary-search-tree)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/flatten-binary-tree-to-linked-list)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/triangle)|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/word-break)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/find-peak-element/)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/contains-duplicate-iii)|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](https://github.com/hsuanhauliu/leetcode-solutions/tree/master/medium/search-a-2d-matrix-ii)
