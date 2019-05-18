@@ -34,6 +34,8 @@
 |414  |                  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
 |463  |                  |[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](easy/island-perimeter)|
 |485  |                  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](easy/max-consecutive-ones)|
+|509  |:star:            |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](easy/fibonacci-number)|
+|559  |:star:            |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |680  |                  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
 |717  |                  |[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](easy/1-bit-and-2-bit-characters/)|
@@ -84,6 +86,8 @@
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
+|241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
+|322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |452  |                  |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |                  |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
@@ -94,6 +98,7 @@
 |646  |                  |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
+|807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
 |825  |                  |[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](medium/friends-of-appropriate-ages)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
