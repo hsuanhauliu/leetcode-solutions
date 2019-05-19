@@ -29,13 +29,15 @@
 |278  |                  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](easy/first-bad-version)|
 |326  |                  |[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](easy/power-of-three)|
 |350  |                  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](easy/intersection-of-two-arrays-ii)|
+|383  |                  |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](easy/ransom-note)|
 |401  |                  |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](easy/binary-watch)|
 |404  |                  |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](easy/sum-of-left-leaves)|
 |414  |                  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
 |463  |                  |[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](easy/island-perimeter)|
 |485  |                  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](easy/max-consecutive-ones)|
+|507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
 |509  |:star:            |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](easy/fibonacci-number)|
-|559  |:star:            |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
+|559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |680  |                  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
 |717  |                  |[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](easy/1-bit-and-2-bit-characters/)|
@@ -45,6 +47,7 @@
 |819  |                  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](easy/most-common-word)|
 |844  |                  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](easy/backspace-string-compare)|
 |849  |                  |[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](easy/max-distance-to-closest-person)|
+|872  |:star::star:      |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](easy/leaf-similar-trees)|
 |884  |                  |[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)|[Python](easy/uncommon-words-from-two-sentences)|
 |896  |                  |[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](easy/monotonic-array)|
 |976  |                  |[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](easy/largest-perimeter-triangle)|
@@ -60,6 +63,7 @@
 |6    |                  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](medium/zigzag-conversion)|
 |11   |                  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](medium/container-with-most-water)|
 |12   |                  |[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](medium/integer-to-roman)|
+|16   |:star:            |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](medium/3sum-closest)|
 |17   |                  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](medium/letter-combinations-of-a-phone-number)|
 |22   |                  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](medium/generate-parentheses)|
 |31   |                  |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](medium/next-permutation)|
@@ -92,8 +96,10 @@
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |                  |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
+|525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
 |593  |                  |[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](medium/valid-square)|
+|621  |:star::star:      |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](medium/task-scheduler)|
 |623  |                  |[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](medium/add-one-row-to-tree)|
 |646  |                  |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
