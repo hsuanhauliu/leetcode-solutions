@@ -22,6 +22,7 @@
 |141  |                  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
+|198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
 |205  |                  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](easy/isomorphic-strings)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
 |263  |                  |[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](easy/ugly-number)|
@@ -83,12 +84,15 @@
 |95   |                  |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](medium/unique-binary-search-trees-ii)|
 |94   |                  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](medium/binary-tree-inorder-traversal)|
 |98   |                  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](medium/validate-binary-search-tree)|
+|106  |                  |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](medium/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |114  |                  |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](medium/flatten-binary-tree-to-linked-list)|
 |120  |                  |[Triangle](https://leetcode.com/problems/triangle/)|[Python](medium/triangle)|
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
+|150  |:star:            |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](medium/evaluate-reverse-polish-notation)|
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
+|236  |:star::star:      |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](medium/)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
