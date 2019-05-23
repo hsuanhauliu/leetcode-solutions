@@ -41,6 +41,7 @@
 |559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |680  |                  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
+|703  |                  |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](easy/kth-largest-element-in-a-stream)|
 |717  |                  |[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](easy/1-bit-and-2-bit-characters/)|
 |746  |                  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](easy/min-cost-climbing-stairs)|
 |748  |                  |[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](easy/shortest-completing-word)|
@@ -90,6 +91,7 @@
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
 |150  |:star:            |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](medium/evaluate-reverse-polish-notation)|
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
+|215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
 |236  |:star::star:      |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](medium/)|
@@ -106,6 +108,7 @@
 |621  |:star::star:      |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](medium/task-scheduler)|
 |623  |                  |[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](medium/add-one-row-to-tree)|
 |646  |                  |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
+|713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
