@@ -77,7 +77,7 @@
 |54   |                  |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](medium/spiral-matrix)|
 |55   |                  |[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](medium/jump-game)|
 |56   |                  |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](medium/merge-intervals)|
-|62   |                  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](medium/unique-paths)|
+|62   |:star::star::star:|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](medium/unique-paths)|
 |64   |                  |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](medium/minimum-path-sum)|
 |74   |                  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](medium/search-a-2d-matrix)|
 |79   |                  |[Word Search](https://leetcode.com/problems/word-search/)|[Python](medium/word-search)|
@@ -95,12 +95,14 @@
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
+|229  |                  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](medium/majority-element-ii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
 |236  |:star::star:      |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](medium/)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |452  |                  |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
+|462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |                  |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
@@ -113,6 +115,7 @@
 |646  |                  |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
 |713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
+|769  |:star::star:      |[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](medium/max-chunks-to-make-sorted)|
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
 |825  |                  |[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](medium/friends-of-appropriate-ages)|
@@ -120,6 +123,7 @@
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
 |881  |                  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](medium/boats-to-save-people)|
 |901  |                  |[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](medium/online-stock-span)|
+|912  |                  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python](medium/sort-an-array)|
 |930  |                  |[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](medium/binary-subarrays-with-sum)|
 |938  |                  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](medium/range-sum-of-bst)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
