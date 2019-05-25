@@ -89,7 +89,9 @@
 |114  |                  |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](medium/flatten-binary-tree-to-linked-list)|
 |120  |                  |[Triangle](https://leetcode.com/problems/triangle/)|[Python](medium/triangle)|
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
+|148  |:star::star:      |[Sort List](https://leetcode.com/problems/sort-list/)|[Python](medium/sort-list)|
 |150  |:star:            |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](medium/evaluate-reverse-polish-notation)|
+|153  |                  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](medium/find-minimum-in-rotated-sorted-array)|
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
@@ -105,6 +107,7 @@
 |525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
 |593  |                  |[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](medium/valid-square)|
+|611  |                  |[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python](medium/valid-triangle-number)|
 |621  |:star::star:      |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](medium/task-scheduler)|
 |623  |                  |[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](medium/add-one-row-to-tree)|
 |646  |                  |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
