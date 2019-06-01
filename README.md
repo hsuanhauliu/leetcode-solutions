@@ -19,6 +19,7 @@
 |104  |                  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](easy/maximum-depth-of-binary-tree)|
 |107  |                  |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](easy/binary-tree-level-order-traversal-II)|
 |111  |                  |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Python](easy/minimum-depth-of-binary-tree)|
+|118  |                  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](easy/pascals-triangle)|
 |141  |                  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
@@ -39,14 +40,17 @@
 |507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
 |509  |:star:            |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](easy/fibonacci-number)|
 |559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
+|581  |                  |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](easy/shortest-unsorted-continuous-subarray)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |680  |                  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
 |703  |                  |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](easy/kth-largest-element-in-a-stream)|
+|709  |                  |[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](easy/to-lower-case)|
 |717  |                  |[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](easy/1-bit-and-2-bit-characters/)|
 |746  |                  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](easy/min-cost-climbing-stairs)|
 |748  |                  |[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](easy/shortest-completing-word)|
 |784  |                  |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](easy/letter-case-permutation)|
 |819  |                  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](easy/most-common-word)|
+|821  |                  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](easy/shortest-distance-to-a-character)|
 |844  |                  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](easy/backspace-string-compare)|
 |849  |                  |[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](easy/max-distance-to-closest-person)|
 |872  |:star::star:      |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](easy/leaf-similar-trees)|
@@ -95,16 +99,19 @@
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
+|228  |                  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](medium/summary-ranges)|
 |229  |                  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](medium/majority-element-ii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
 |236  |:star::star:      |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](medium/)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
+|396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
 |452  |                  |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |                  |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
+|515  |:star::star:      |[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](medium/find-largest-value-in-each-tree-row)|
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
 |525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
@@ -113,6 +120,7 @@
 |621  |:star::star:      |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](medium/task-scheduler)|
 |623  |                  |[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](medium/add-one-row-to-tree)|
 |646  |                  |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
+|654  |                  |[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](medium/maximum-binary-tree)|
 |713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
 |769  |:star::star:      |[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](medium/max-chunks-to-make-sorted)|
