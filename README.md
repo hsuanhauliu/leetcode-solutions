@@ -26,6 +26,7 @@
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
 |205  |                  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](easy/isomorphic-strings)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
+|257  |:star::star:      |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](easy/binary-tree-paths)|
 |263  |                  |[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](easy/ugly-number)|
 |268  |                  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](easy/missing-number)|
 |278  |                  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](easy/first-bad-version)|
@@ -136,6 +137,7 @@
 |938  |                  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](medium/range-sum-of-bst)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
 |979  |                  |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
+|981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Hard
