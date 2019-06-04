@@ -36,6 +36,7 @@
 |401  |                  |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](easy/binary-watch)|
 |404  |                  |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](easy/sum-of-left-leaves)|
 |414  |                  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
+|437  |:star::start:     |[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](easy/path-sum-iii)|
 |463  |                  |[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](easy/island-perimeter)|
 |485  |                  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](easy/max-consecutive-ones)|
 |507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
@@ -87,6 +88,7 @@
 |62   |:star::star::star:|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](medium/unique-paths)|
 |64   |                  |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](medium/minimum-path-sum)|
 |74   |                  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](medium/search-a-2d-matrix)|
+|78   |:star::star:      |[Subsets](https://leetcode.com/problems/subsets/)|[Python](medium/subsets)|
 |79   |                  |[Word Search](https://leetcode.com/problems/word-search/)|[Python](medium/word-search)|
 |90   |                  |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](medium/subsetsII)|
 |95   |                  |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](medium/unique-binary-search-trees-ii)|
@@ -135,6 +137,7 @@
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
 |825  |                  |[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](medium/friends-of-appropriate-ages)|
 |826  |                  |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[](Python](medium/most-profit-assigning-work)|
+|845  |:star::star:      |[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](medium/longest-mountain-in-array)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
 |881  |                  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](medium/boats-to-save-people)|
@@ -145,6 +148,7 @@
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
 |979  |                  |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
 |981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
+|1024 |:star::star:      |[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](medium/video-stitching)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Hard
