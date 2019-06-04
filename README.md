@@ -50,6 +50,7 @@
 |746  |                  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](easy/min-cost-climbing-stairs)|
 |748  |                  |[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](easy/shortest-completing-word)|
 |784  |                  |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](easy/letter-case-permutation)|
+|796  |                  |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](easy/rotate-string)|
 |819  |                  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](easy/most-common-word)|
 |821  |                  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](easy/shortest-distance-to-a-character)|
 |844  |                  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](easy/backspace-string-compare)|
@@ -58,6 +59,7 @@
 |884  |                  |[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)|[Python](easy/uncommon-words-from-two-sentences)|
 |896  |                  |[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](easy/monotonic-array)|
 |976  |                  |[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](easy/largest-perimeter-triangle)|
+|1022 |                  |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](easy/sum-of-root-to-leaf-binary-numbers)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Medium
@@ -98,16 +100,20 @@
 |150  |:star:            |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](medium/evaluate-reverse-polish-notation)|
 |153  |                  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](medium/find-minimum-in-rotated-sorted-array)|
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
+|199  |:star:            |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](medium/binary-tree-right-side-view)|
+|208  |:star::star:      |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](medium/implement-trie-prefix-tree)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
 |228  |                  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](medium/summary-ranges)|
 |229  |                  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](medium/majority-element-ii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
-|236  |:star::star:      |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](medium/)|
+|236  |:star::star:      |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](medium/lowest-common-ancestor-of-a-binary-tree)|
+|238  |:star:            |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](medium/product-of-array-except-self)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
+|406  |:star:            |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](medium/queue-reconstruction-by-height)|
 |452  |                  |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
@@ -128,6 +134,7 @@
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
 |825  |                  |[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](medium/friends-of-appropriate-ages)|
+|826  |                  |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[](Python](medium/most-profit-assigning-work)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
 |881  |                  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](medium/boats-to-save-people)|
