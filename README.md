@@ -46,6 +46,7 @@
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |680  |                  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
 |703  |                  |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](easy/kth-largest-element-in-a-stream)|
+|706  |                  |[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](easy/design-hashmap)|
 |709  |                  |[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](easy/to-lower-case)|
 |717  |                  |[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](easy/1-bit-and-2-bit-characters/)|
 |746  |                  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](easy/min-cost-climbing-stairs)|
@@ -93,6 +94,7 @@
 |90   |                  |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](medium/subsetsII)|
 |95   |                  |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](medium/unique-binary-search-trees-ii)|
 |94   |                  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](medium/binary-tree-inorder-traversal)|
+|96   |:star::star:      |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](medium/)|
 |98   |                  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](medium/validate-binary-search-tree)|
 |106  |                  |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](medium/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |114  |                  |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](medium/flatten-binary-tree-to-linked-list)|
@@ -149,6 +151,7 @@
 |979  |                  |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
 |981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
 |1024 |:star::star:      |[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](medium/video-stitching)|
+|1043 |:star::star:      |[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](medium/partition-array-for-maximum-sum)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Hard
