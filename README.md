@@ -21,6 +21,7 @@
 |111  |                  |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Python](easy/minimum-depth-of-binary-tree)|
 |118  |                  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](easy/pascals-triangle)|
 |141  |                  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
+|169  |                  |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](easy/majority-element)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
@@ -116,8 +117,11 @@
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
+|392  |                  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](medium/is-subsequence)|
 |396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
+|399  |:star::star:      |[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](medium/evaluate-division)|
 |406  |:star:            |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](medium/queue-reconstruction-by-height)|
+|413  |                  |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](medium/arithmetic-slices)|
 |452  |                  |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
@@ -147,6 +151,7 @@
 |901  |                  |[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](medium/online-stock-span)|
 |912  |                  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python](medium/sort-an-array)|
 |930  |                  |[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](medium/binary-subarrays-with-sum)|
+|931  |:star:            |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](medium/minimum-falling-path-sum)|
 |938  |                  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](medium/range-sum-of-bst)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
 |979  |                  |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
