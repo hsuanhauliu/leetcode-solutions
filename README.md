@@ -37,7 +37,7 @@
 |401  |                  |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](easy/binary-watch)|
 |404  |                  |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](easy/sum-of-left-leaves)|
 |414  |                  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
-|437  |:star::start:     |[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](easy/path-sum-iii)|
+|437  |:star::star:      |[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](easy/path-sum-iii)|
 |463  |                  |[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](easy/island-perimeter)|
 |485  |                  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](easy/max-consecutive-ones)|
 |507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
@@ -143,7 +143,7 @@
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
 |825  |                  |[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](medium/friends-of-appropriate-ages)|
-|826  |                  |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[](Python](medium/most-profit-assigning-work)|
+|826  |                  |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python](medium/most-profit-assigning-work)|
 |845  |:star::star:      |[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](medium/longest-mountain-in-array)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
