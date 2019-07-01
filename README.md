@@ -15,6 +15,7 @@
 |28   |                  |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](easy/implement-strStr)|
 |35   |                  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](easy/search-insert-position)|
 |53   |                  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](easy/maximum-subarray)|
+|83   |:star:            |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](easy/remove-duplicates-from-sorted-list)|
 |100  |                  |[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](easy/same-tree)|
 |104  |                  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](easy/maximum-depth-of-binary-tree)|
 |107  |                  |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](easy/binary-tree-level-order-traversal-II)|
@@ -26,6 +27,7 @@
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
 |205  |                  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](easy/isomorphic-strings)|
+|226  |:star::star:      |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](easy/invert-binary-tree)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
 |257  |:star::star:      |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](easy/binary-tree-paths)|
 |263  |                  |[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](easy/ugly-number)|
@@ -78,6 +80,7 @@
 |16   |:star:            |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](medium/3sum-closest)|
 |17   |                  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](medium/letter-combinations-of-a-phone-number)|
 |22   |                  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](medium/generate-parentheses)|
+|24   |:star:            |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](medium/swap-nodes-in-pairs)|
 |31   |                  |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](medium/next-permutation)|
 |33   |                  |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](medium/search-in-rotated-sorted-array)|
 |36   |                  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Java](medium/valid-sudoku)|
@@ -92,7 +95,9 @@
 |74   |                  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](medium/search-a-2d-matrix)|
 |78   |:star::star:      |[Subsets](https://leetcode.com/problems/subsets/)|[Python](medium/subsets)|
 |79   |                  |[Word Search](https://leetcode.com/problems/word-search/)|[Python](medium/word-search)|
+|82   |:star::star:      |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](medium/remove-duplicates-from-sorted-list-ii)|
 |90   |                  |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Python](medium/subsetsII)|
+|92   |:star::star:      |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](medium/reverse-linked-list-ii)|
 |95   |                  |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](medium/unique-binary-search-trees-ii)|
 |94   |                  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](medium/binary-tree-inorder-traversal)|
 |96   |:star::star:      |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](medium/)|
@@ -130,6 +135,7 @@
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
 |525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
+|542  |:star::star:      |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](medium/01-matrix)|
 |554  |                  |[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Python](medium/brick-wall)|
 |593  |                  |[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](medium/valid-square)|
 |611  |                  |[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python](medium/valid-triangle-number)|
@@ -157,6 +163,7 @@
 |979  |                  |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
 |981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
 |1024 |:star::star:      |[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](medium/video-stitching)|
+|1026 |:star:            |[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](medium/maximum-difference-between-node-and-ancestor)|
 |1043 |:star::star:      |[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](medium/partition-array-for-maximum-sum)|
 |     |                  |[]()|[]()|
 
