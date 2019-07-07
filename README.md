@@ -136,6 +136,7 @@
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
 |525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
+|540  |:star::star:      |[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python](medium/single-element-in-a-sorted-array)|
 |542  |:star::star:      |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](medium/01-matrix)|
 |554  |                  |[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Python](medium/brick-wall)|
 |593  |                  |[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](medium/valid-square)|
