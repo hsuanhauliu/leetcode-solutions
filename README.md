@@ -105,6 +105,7 @@
 |106  |                  |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](medium/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |114  |                  |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](medium/flatten-binary-tree-to-linked-list)|
 |120  |                  |[Triangle](https://leetcode.com/problems/triangle/)|[Python](medium/triangle)|
+|131  |:star::star:      |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](medium/palindrome-partitioning)|
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
 |148  |:star::star:      |[Sort List](https://leetcode.com/problems/sort-list/)|[Python](medium/sort-list)|
 |150  |:star:            |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](medium/evaluate-reverse-polish-notation)|
@@ -145,6 +146,7 @@
 |654  |                  |[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](medium/maximum-binary-tree)|
 |713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
+|767  |:star:            |[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](medium/reorganize-string)|
 |769  |:star::star:      |[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](medium/max-chunks-to-make-sorted)|
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
@@ -152,6 +154,7 @@
 |826  |                  |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python](medium/most-profit-assigning-work)|
 |845  |:star::star:      |[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](medium/longest-mountain-in-array)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
+|856  |:star:            |[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python](medium/score-of-parentheses)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
 |881  |                  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](medium/boats-to-save-people)|
 |901  |                  |[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](medium/online-stock-span)|
