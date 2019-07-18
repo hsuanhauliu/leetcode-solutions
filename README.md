@@ -21,6 +21,7 @@
 |107  |:star::star:      |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](easy/binary-tree-level-order-traversal-II)|
 |111  |:star::star:      |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Python](easy/minimum-depth-of-binary-tree)|
 |118  |                  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](easy/pascals-triangle)|
+|121  |                  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](easy/best-time-to-buy-and-sell-stock)|
 |141  |:star:            |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
 |169  |:star:            |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](easy/majority-element)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
@@ -28,6 +29,7 @@
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
 |205  |                  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](easy/isomorphic-strings)|
 |226  |:star::star:      |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](easy/invert-binary-tree)|
+|235  |:star::star:      |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](easy/lowest-common-ancestor-of-a-binary-search-tree)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
 |257  |:star::star:      |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](easy/binary-tree-paths)|
 |263  |                  |[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](easy/ugly-number)|
@@ -66,6 +68,7 @@
 |938  |:star::star::star:|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](medium/range-sum-of-bst)|
 |976  |                  |[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](easy/largest-perimeter-triangle)|
 |1022 |:star::star:      |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](easy/sum-of-root-to-leaf-binary-numbers)|
+|1046 |                  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](easy/last-stone-weight)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Medium
