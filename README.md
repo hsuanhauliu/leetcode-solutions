@@ -46,9 +46,11 @@
 |485  |                  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](easy/max-consecutive-ones)|
 |507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
 |509  |:star:            |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](easy/fibonacci-number)|
+|530  |                  |[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](easy/minimum-absolute-difference-in-bst)|
 |559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |581  |:star::star:      |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](easy/shortest-unsorted-continuous-subarray)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
+|628  |                  |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](easy/maximum-product-of-three-numbers)|
 |680  |:star:            |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
 |703  |:star::star:      |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](easy/kth-largest-element-in-a-stream)|
 |706  |:star::star:      |[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](easy/design-hashmap)|
@@ -127,6 +129,7 @@
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
+|377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
 |392  |:star:            |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](medium/is-subsequence)|
 |396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
 |399  |:star::star:      |[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](medium/evaluate-division)|
@@ -134,6 +137,7 @@
 |413  |:star:            |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](medium/arithmetic-slices)|
 |452  |:star:            |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
+|498  |                  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](medium/diagonal-traverse)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |:star::star:      |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
 |515  |:star::star:      |[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](medium/find-largest-value-in-each-tree-row)|
