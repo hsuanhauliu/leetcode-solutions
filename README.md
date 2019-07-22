@@ -28,6 +28,7 @@
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
 |205  |                  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](easy/isomorphic-strings)|
+|206  |:star::star:      |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](easy/reverse-linked-list)|
 |226  |:star::star:      |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](easy/invert-binary-tree)|
 |235  |:star::star:      |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](easy/lowest-common-ancestor-of-a-binary-search-tree)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
@@ -35,6 +36,7 @@
 |263  |                  |[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[C++](easy/ugly-number)|
 |268  |                  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](easy/missing-number)|
 |278  |                  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](easy/first-bad-version)|
+|290  |                  |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](easy/word-pattern)|
 |326  |                  |[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](easy/power-of-three)|
 |350  |                  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](easy/intersection-of-two-arrays-ii)|
 |383  |                  |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](easy/ransom-note)|
@@ -128,6 +130,7 @@
 |238  |:star:            |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](medium/product-of-array-except-self)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
+|306  |:star:            |[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](medium/additive-number)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
 |392  |:star:            |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](medium/is-subsequence)|
