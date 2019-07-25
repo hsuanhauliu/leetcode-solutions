@@ -92,6 +92,7 @@
 |31   |:star::star:      |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](medium/next-permutation)|
 |33   |:star::star:      |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](medium/search-in-rotated-sorted-array)|
 |36   |                  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Java](medium/valid-sudoku)|
+|39   |:star::star:      |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](medium/combination-sum)|
 |46   |:star::star::star:|[Permutations](https://leetcode.com/problems/permutations/)|[Python](medium/permutations)|
 |48   |:star:            |[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[C++](medium/rotate-image)|
 |49   |:star::star:      |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](medium/group-anagrams)|
@@ -112,6 +113,7 @@
 |98   |:star::star::star:|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](medium/validate-binary-search-tree)|
 |106  |:star::star:      |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](medium/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |114  |:star:            |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](medium/flatten-binary-tree-to-linked-list)|
+|116  |:star:            |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](medium/populating-next-right-pointers-in-each-node)|
 |120  |                  |[Triangle](https://leetcode.com/problems/triangle/)|[Python](medium/triangle)|
 |131  |:star::star:      |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](medium/palindrome-partitioning)|
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
