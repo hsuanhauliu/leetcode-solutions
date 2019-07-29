@@ -25,6 +25,7 @@
 |141  |:star:            |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
 |155  |:star:            |[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](easy/min-stack)|
 |169  |:star:            |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](easy/majority-element)|
+|189  |:star:            |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](easy/rotate-array)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
@@ -54,7 +55,9 @@
 |581  |:star::star:      |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](easy/shortest-unsorted-continuous-subarray)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |628  |                  |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](easy/maximum-product-of-three-numbers)|
+|643  |                  |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](easy/maximum-average-subarray-i)|
 |680  |:star:            |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
+|687  |:star::star::star:|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](easy/longest-univalue-path)|
 |703  |:star::star:      |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](easy/kth-largest-element-in-a-stream)|
 |706  |:star::star:      |[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](easy/design-hashmap)|
 |709  |                  |[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](easy/to-lower-case)|
@@ -124,6 +127,7 @@
 |153  |                  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](medium/find-minimum-in-rotated-sorted-array)|
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
 |199  |:star:            |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](medium/binary-tree-right-side-view)|
+|200  |:star::star::star:|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](medium/number-of-islands)|
 |208  |:star::star:      |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](medium/implement-trie-prefix-tree)|
 |210  |:star::star:      |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](medium/course-schedule-ii)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
