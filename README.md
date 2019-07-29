@@ -23,6 +23,7 @@
 |118  |                  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](easy/pascals-triangle)|
 |121  |                  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](easy/best-time-to-buy-and-sell-stock)|
 |141  |:star:            |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
+|155  |:star:            |[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](easy/min-stack)|
 |169  |:star:            |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](easy/majority-element)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
@@ -73,6 +74,7 @@
 |976  |                  |[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](easy/largest-perimeter-triangle)|
 |1022 |:star::star:      |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](easy/sum-of-root-to-leaf-binary-numbers)|
 |1046 |                  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](easy/last-stone-weight)|
+|1122 |                  |[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](easy/relative-sort-array)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Medium
@@ -123,6 +125,7 @@
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
 |199  |:star:            |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](medium/binary-tree-right-side-view)|
 |208  |:star::star:      |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](medium/implement-trie-prefix-tree)|
+|210  |:star::star:      |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](medium/course-schedule-ii)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
 |228  |                  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](medium/summary-ranges)|
@@ -132,6 +135,8 @@
 |238  |:star:            |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](medium/product-of-array-except-self)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
+|279  |:star::star:      |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](medium/perfect-squares)|
+|284  |                  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](medium/peeking-iterator)|
 |306  |:star:            |[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](medium/additive-number)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
@@ -157,12 +162,14 @@
 |621  |:star::star:      |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](medium/task-scheduler)|
 |623  |:star:            |[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](medium/add-one-row-to-tree)|
 |646  |:star::star:      |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
+|650  |:star::star:      |[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python](medium/2-keys-keyboard)|
 |654  |:star::star::star:|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](medium/maximum-binary-tree)|
 |713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
 |767  |:star:            |[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](medium/reorganize-string)|
 |769  |:star::star:      |[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](medium/max-chunks-to-make-sorted)|
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
+|801  |:star:            |[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Python](medium/minimum-swaps-to-make-sequences-increasing)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
 |825  |                  |[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](medium/friends-of-appropriate-ages)|
 |826  |                  |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)|[Python](medium/most-profit-assigning-work)|
@@ -178,6 +185,8 @@
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
 |979  |:star::star:      |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
 |981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
+|988  |:star::star:      |[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](medium/smallest-string-starting-from-leaf)|
+|997  |                  |[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](medium/find-the-town-judge)|
 |1024 |:star::star:      |[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](medium/video-stitching)|
 |1026 |:star:            |[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](medium/maximum-difference-between-node-and-ancestor)|
 |1043 |:star::star:      |[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](medium/partition-array-for-maximum-sum)|
