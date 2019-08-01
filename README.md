@@ -66,6 +66,7 @@
 |717  |                  |[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](easy/1-bit-and-2-bit-characters/)|
 |746  |:star::star:      |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](easy/min-cost-climbing-stairs)|
 |748  |                  |[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](easy/shortest-completing-word)|
+|783  |:star::star:      |[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](easy/minimum-distance-between-bst-nodes)|
 |784  |                  |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](easy/letter-case-permutation)|
 |796  |                  |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](easy/rotate-string)|
 |819  |                  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](easy/most-common-word)|
@@ -81,6 +82,7 @@
 |1022 |:star::star:      |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](easy/sum-of-root-to-leaf-binary-numbers)|
 |1046 |                  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](easy/last-stone-weight)|
 |1122 |                  |[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](easy/relative-sort-array)|
+|1137 |:star:            |[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](easy/n-th-tribonacci-number)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Medium
@@ -124,6 +126,7 @@
 |114  |:star:            |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](medium/flatten-binary-tree-to-linked-list)|
 |116  |:star:            |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](medium/populating-next-right-pointers-in-each-node)|
 |120  |                  |[Triangle](https://leetcode.com/problems/triangle/)|[Python](medium/triangle)|
+|127  |:star::star::star:|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](medium/word-ladder)|
 |131  |:star::star:      |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](medium/palindrome-partitioning)|
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
 |148  |:star::star:      |[Sort List](https://leetcode.com/problems/sort-list/)|[Python](medium/sort-list)|
