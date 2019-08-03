@@ -25,6 +25,7 @@
 |141  |:star:            |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
 |155  |:star:            |[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](easy/min-stack)|
 |169  |:star:            |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](easy/majority-element)|
+|171  |                  |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](easy/excel-sheet-column-number)|
 |189  |:star:            |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](easy/rotate-array)|
 |190  |                  |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](easy/reverse-bits)|
 |191  |                  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](easy/number-of-1-bits)|
@@ -158,6 +159,7 @@
 |399  |:star::star:      |[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](medium/evaluate-division)|
 |406  |:star:            |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](medium/queue-reconstruction-by-height)|
 |413  |:star:            |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](medium/arithmetic-slices)|
+|424  |:star::star:      |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](medium/longest-repeating-character-replacement)|
 |435  |:star:            |[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](medium/non-overlapping-intervals)|
 |452  |:star:            |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
@@ -191,6 +193,7 @@
 |845  |:star::star:      |[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](medium/longest-mountain-in-array)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
 |856  |:star:            |[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python](medium/score-of-parentheses)|
+|873  |:star:            |[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](medium/length-of-longest-fibonacci-subsequence)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
 |881  |                  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](medium/boats-to-save-people)|
 |901  |                  |[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](medium/online-stock-span)|
