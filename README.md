@@ -32,6 +32,7 @@
 |198  |:star:            |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](easy/house-robber)|
 |205  |                  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](easy/isomorphic-strings)|
 |206  |:star::star:      |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](easy/reverse-linked-list)|
+|217  |                  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](easy/contains-duplicate)|
 |226  |:star::star:      |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](easy/invert-binary-tree)|
 |235  |:star::star:      |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](easy/lowest-common-ancestor-of-a-binary-search-tree)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
@@ -49,6 +50,7 @@
 |404  |                  |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](easy/sum-of-left-leaves)|
 |414  |:star:            |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
 |437  |:star::star:      |[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](easy/path-sum-iii)|
+|448  |                  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](easy/find-all-numbers-disappeared-in-an-array)|
 |463  |                  |[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](easy/island-perimeter)|
 |485  |                  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](easy/max-consecutive-ones)|
 |507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
@@ -57,6 +59,7 @@
 |559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |581  |:star::star:      |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](easy/shortest-unsorted-continuous-subarray)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
+|617  |:star::star::star:|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](easy/merge-two-binary-trees)|
 |628  |                  |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](easy/maximum-product-of-three-numbers)|
 |643  |                  |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](easy/maximum-average-subarray-i)|
 |680  |:star:            |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](easy/valid-palindrome-ii)|
@@ -180,8 +183,11 @@
 |646  |:star::star:      |[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](medium/maximum-length-of-pair-chain)|
 |650  |:star::star:      |[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python](medium/2-keys-keyboard)|
 |654  |:star::star::star:|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](medium/maximum-binary-tree)|
+|662  |:star::star:      |[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](medium/maximum-width-of-binary-tree)|
+|678  |                  |[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](medium/valid-parenthesis-string)|
 |713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
+|743  |:star:            |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Python](medium/network-delay-time)|
 |763  |:star:            |[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](medium/partition-labels)|
 |767  |:star:            |[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](medium/reorganize-string)|
 |769  |:star::star:      |[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](medium/max-chunks-to-make-sorted)|
@@ -200,6 +206,7 @@
 |912  |:star:            |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python](medium/sort-an-array)|
 |930  |                  |[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](medium/binary-subarrays-with-sum)|
 |931  |:star:            |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](medium/minimum-falling-path-sum)|
+|951  |                  |[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](medium/flip-equivalent-binary-trees)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
 |979  |:star::star:      |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
 |981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
