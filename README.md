@@ -22,6 +22,7 @@
 |111  |:star::star:      |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Python](easy/minimum-depth-of-binary-tree)|
 |118  |                  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](easy/pascals-triangle)|
 |121  |                  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](easy/best-time-to-buy-and-sell-stock)|
+|136  |                  |[Single Number](https://leetcode.com/problems/single-number/)|[Python](easy/single-number)|
 |141  |:star:            |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](easy/linked-list-cycle)|
 |155  |:star:            |[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](easy/min-stack)|
 |169  |:star:            |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](easy/majority-element)|
@@ -80,6 +81,7 @@
 |872  |:star::star:      |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](easy/leaf-similar-trees)|
 |884  |                  |[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)|[Python](easy/uncommon-words-from-two-sentences)|
 |896  |                  |[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](easy/monotonic-array)|
+|922  |                  |[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](easy/sort-array-by-parity-ii)|
 |938  |:star::star::star:|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](medium/range-sum-of-bst)|
 |976  |                  |[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](easy/largest-perimeter-triangle)|
 |993  |:star::star:      |[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python](easy/cousins-in-binary-tree)|
@@ -131,6 +133,7 @@
 |116  |:star:            |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](medium/populating-next-right-pointers-in-each-node)|
 |120  |                  |[Triangle](https://leetcode.com/problems/triangle/)|[Python](medium/triangle)|
 |127  |:star::star::star:|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](medium/word-ladder)|
+|129  |:star::star:      |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](medium/sum-root-to-leaf-numbers)|
 |131  |:star::star:      |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](medium/palindrome-partitioning)|
 |139  |                  |[Word Break](https://leetcode.com/problems/word-break/)|[Python](medium/word-break)|
 |148  |:star::star:      |[Sort List](https://leetcode.com/problems/sort-list/)|[Python](medium/sort-list)|
@@ -162,6 +165,7 @@
 |399  |:star::star:      |[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](medium/evaluate-division)|
 |406  |:star:            |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](medium/queue-reconstruction-by-height)|
 |413  |:star:            |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](medium/arithmetic-slices)|
+|416  |:star::star:      |[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](medium/partition-equal-subset-sum)|
 |424  |:star::star:      |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](medium/longest-repeating-character-replacement)|
 |435  |:star:            |[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](medium/non-overlapping-intervals)|
 |452  |:star:            |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
@@ -187,6 +191,7 @@
 |678  |                  |[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](medium/valid-parenthesis-string)|
 |713  |:star::star:      |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](medium/subarray-product-less-than-k)|
 |738  |                  |[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](medium/monotone-increasing-digits)|
+|739  |:star::star:      |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](medium/)|
 |743  |:star:            |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Python](medium/network-delay-time)|
 |763  |:star:            |[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](medium/partition-labels)|
 |767  |:star:            |[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](medium/reorganize-string)|
@@ -207,6 +212,7 @@
 |930  |                  |[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](medium/binary-subarrays-with-sum)|
 |931  |:star:            |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](medium/minimum-falling-path-sum)|
 |951  |                  |[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](medium/flip-equivalent-binary-trees)|
+|954  |:star:            |[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Python](medium/array-of-doubled-pairs)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
 |979  |:star::star:      |[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|[Python](medium/distribute-coins-in-binary-tree)|
 |981  |                  |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](medium/time-based-key-value-store)|
@@ -217,6 +223,8 @@
 |1026 |:star:            |[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](medium/maximum-difference-between-node-and-ancestor)|
 |1035 |:star::star:      |[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](medium/uncrossed-lines)|
 |1043 |:star::star:      |[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](medium/partition-array-for-maximum-sum)|
+|1094 |:star:            |[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Python](medium/car-pooling)|
+|1143 |:star::star:      |[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](medium/longest-common-subsequence)|
 |     |                  |[]()|[]()|
 
 ## Difficulty: Hard
