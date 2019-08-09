@@ -107,6 +107,7 @@
 |24   |:star:            |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](medium/swap-nodes-in-pairs)|
 |31   |:star::star:      |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](medium/next-permutation)|
 |33   |:star::star:      |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](medium/search-in-rotated-sorted-array)|
+|34   |:star:            |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](medium/find-first-and-last-position-of-element-in-sorted-array)|
 |36   |                  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Java](medium/valid-sudoku)|
 |39   |:star::star:      |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](medium/combination-sum)|
 |46   |:star::star::star:|[Permutations](https://leetcode.com/problems/permutations/)|[Python](medium/permutations)|
@@ -154,6 +155,7 @@
 |238  |:star:            |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](medium/product-of-array-except-self)|
 |240  |                  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](medium/search-a-2d-matrix-ii)
 |241  |                  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](medium/different-ways-to-add-parentheses)|
+|264  |                  |[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Python](medium/ugly-number-ii)|
 |279  |:star::star:      |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](medium/perfect-squares)|
 |284  |                  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](medium/peeking-iterator)|
 |287  |:star:            |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](medium/find-the-duplicate-number)|
