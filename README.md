@@ -35,6 +35,7 @@
 |206  |:star::star:      |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](easy/reverse-linked-list)|
 |217  |                  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](easy/contains-duplicate)|
 |226  |:star::star:      |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](easy/invert-binary-tree)|
+|234  |:star::star:      |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](easy/palindrome-linked-list)|
 |235  |:star::star:      |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](easy/lowest-common-ancestor-of-a-binary-search-tree)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
 |257  |:star::star:      |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](easy/binary-tree-paths)|
@@ -176,6 +177,7 @@
 |435  |:star:            |[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](medium/non-overlapping-intervals)|
 |452  |:star:            |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[Python](medium/minimum-number-of-arrows-to-burst-balloons)|
 |462  |                  |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](medium/minimum-moves-to-equal-array-elements-ii)|
+|486  |:star::star:      |[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Python](medium/predict-the-winner)|
 |498  |                  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](medium/diagonal-traverse)|
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |:star::star:      |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
