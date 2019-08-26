@@ -108,6 +108,7 @@
 |12   |                  |[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](medium/integer-to-roman)|
 |16   |:star:            |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](medium/3sum-closest)|
 |17   |                  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](medium/letter-combinations-of-a-phone-number)|
+|19   |:star::star:      |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](medium/remove-nth-node-from-end-of-list)|
 |22   |                  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](medium/generate-parentheses)|
 |24   |:star:            |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](medium/swap-nodes-in-pairs)|
 |31   |:star::star:      |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Python](medium/next-permutation)|
@@ -146,6 +147,7 @@
 |150  |:star:            |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](medium/evaluate-reverse-polish-notation)|
 |153  |                  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](medium/find-minimum-in-rotated-sorted-array)|
 |162  |                  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](medium/find-peak-element/)|
+|173  |                  |[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](medium/binary-search-tree-iterator)|
 |199  |:star:            |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](medium/binary-tree-right-side-view)|
 |200  |:star::star::star:|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](medium/number-of-islands)|
 |207  |:star::star:      |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](medium/course-schedule)|
@@ -164,6 +166,7 @@
 |279  |:star::star:      |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](medium/perfect-squares)|
 |284  |                  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](medium/peeking-iterator)|
 |287  |:star:            |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](medium/find-the-duplicate-number)|
+|304  |:star::star:      |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](medium/range-sum-query-2d-immutable)|
 |306  |:star:            |[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](medium/additive-number)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
@@ -213,6 +216,7 @@
 |845  |:star::star:      |[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](medium/longest-mountain-in-array)|
 |848  |                  |[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)|[Python](medium/shifting-letters)|
 |856  |:star:            |[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python](medium/score-of-parentheses)|
+|870  |                  |[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Python](medium/advantage-shuffle)|
 |873  |:star:            |[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](medium/length-of-longest-fibonacci-subsequence)|
 |875  |                  |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](medium/koko-eating-bananas)|
 |881  |                  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](medium/boats-to-save-people)|
