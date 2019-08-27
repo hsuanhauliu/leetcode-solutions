@@ -51,6 +51,7 @@
 |401  |                  |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](easy/binary-watch)|
 |404  |                  |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](easy/sum-of-left-leaves)|
 |414  |:star:            |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
+|429  |:star::star:      |[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[C++](easy/n-ary-tree-level-order-traversal)|
 |437  |:star::star:      |[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](easy/path-sum-iii)|
 |448  |                  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](easy/find-all-numbers-disappeared-in-an-array)|
 |463  |                  |[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](easy/island-perimeter)|
@@ -79,6 +80,7 @@
 |796  |                  |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](easy/rotate-string)|
 |819  |                  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](easy/most-common-word)|
 |821  |                  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](easy/shortest-distance-to-a-character)|
+|836  |                  |[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[C++](easy/rectangle-overlap)|
 |844  |                  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[Golang](easy/backspace-string-compare)|
 |849  |                  |[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|[Python](easy/max-distance-to-closest-person)|
 |872  |:star::star:      |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](easy/leaf-similar-trees)|
@@ -224,6 +226,7 @@
 |912  |:star:            |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python](medium/sort-an-array)|
 |930  |                  |[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](medium/binary-subarrays-with-sum)|
 |931  |:star:            |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](medium/minimum-falling-path-sum)|
+|946  |                  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](medium/validate-stack-sequences)|
 |951  |                  |[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](medium/flip-equivalent-binary-trees)|
 |954  |:star:            |[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Python](medium/array-of-doubled-pairs)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
