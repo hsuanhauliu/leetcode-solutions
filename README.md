@@ -59,6 +59,7 @@
 |507  |                  |[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](easy/perfect-number)|
 |509  |:star:            |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](easy/fibonacci-number)|
 |530  |                  |[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](easy/minimum-absolute-difference-in-bst)|
+|557  |                  |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](easy/reverse-words-in-a-string-iii)|
 |559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |572  |:star::star:      |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](easy/subtree-of-another-tree)|
 |581  |:star::star:      |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](easy/shortest-unsorted-continuous-subarray)|
@@ -227,6 +228,7 @@
 |930  |                  |[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](medium/binary-subarrays-with-sum)|
 |931  |:star:            |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](medium/minimum-falling-path-sum)|
 |946  |                  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](medium/validate-stack-sequences)|
+|947  |:star::star:       |[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python](medium/most-stones-removed-with-same-row-or-column)|
 |951  |                  |[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](medium/flip-equivalent-binary-trees)|
 |954  |:star:            |[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Python](medium/array-of-doubled-pairs)|
 |973  |                  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](medium/k-closest-points-to-origin)|
