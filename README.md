@@ -172,6 +172,7 @@
 |304  |:star::star:      |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](medium/range-sum-query-2d-immutable)|
 |306  |:star:            |[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](medium/additive-number)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
+|337  |:star::star:      |[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](medium/house-robber-iii)|
 |377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
 |392  |:star:            |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](medium/is-subsequence)|
 |396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
@@ -246,6 +247,7 @@
 |1094 |:star:            |[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Python](medium/car-pooling)|
 |1110 |:star::star:      |[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python](medium/delete-nodes-and-return-forest)|
 |1143 |:star::star:      |[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](medium/longest-common-subsequence)|
+|1156 |:star::star:      |[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)|[Python](medium/swap-for-longest-repeated-character-substring)|
 |     |                  |[]()|[]()|
 
 
