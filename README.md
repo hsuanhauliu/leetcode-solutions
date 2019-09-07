@@ -44,10 +44,12 @@
 |278  |                  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](easy/first-bad-version)|
 |283  |:star::star:      |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](easy/move-zeroes)|
 |290  |                  |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](easy/word-pattern)|
+|299  |                  |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](easy/bulls-and-cows)|
 |326  |                  |[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](easy/power-of-three)|
 |344  |                  |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](easy/reverse-string)|
 |350  |                  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](easy/intersection-of-two-arrays-ii)|
 |383  |                  |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](easy/ransom-note)|
+|387  |                  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](easy/first-unique-character-in-a-string)|
 |401  |                  |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](easy/binary-watch)|
 |404  |                  |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](easy/sum-of-left-leaves)|
 |414  |:star:            |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](easy/third-maximum-number)|
@@ -158,6 +160,7 @@
 |210  |:star::star:      |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](medium/course-schedule-ii)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
+|221  |:star::star:      |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](medium/maximal-square)|
 |228  |                  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](medium/summary-ranges)|
 |229  |                  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](medium/majority-element-ii)|
 |230  |:star::star::star:|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](medium/kth-smallest-element-in-a-bst)|
@@ -173,6 +176,7 @@
 |306  |:star:            |[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](medium/additive-number)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
 |337  |:star::star:      |[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](medium/house-robber-iii)|
+|355  |:star::star:      |[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](medium/design-twitter)|
 |377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
 |392  |:star:            |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](medium/is-subsequence)|
 |396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
@@ -189,6 +193,7 @@
 |503  |                  |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](medium/next-greater-element-ii)|
 |508  |:star::star:      |[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](medium/most-frequent-subtree-sum)|
 |515  |:star::star:      |[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](medium/find-largest-value-in-each-tree-row)|
+|516  |:star::star:      |[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](medium/longest-palindromic-subsequence)|
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
 |525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
