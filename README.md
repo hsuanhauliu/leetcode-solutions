@@ -130,6 +130,7 @@
 |62   |:star::star::star:|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](medium/unique-paths)|
 |64   |                  |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](medium/minimum-path-sum)|
 |74   |:star:            |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](medium/search-a-2d-matrix)|
+|77   |:star::star:      |[Combinations](https://leetcode.com/problems/combinations/)|[Python](medium/combinations)|
 |78   |:star::star:      |[Subsets](https://leetcode.com/problems/subsets/)|[Python](medium/subsets)|
 |79   |:star::star::star:|[Word Search](https://leetcode.com/problems/word-search/)|[Python](medium/word-search)|
 |82   |:star::star:      |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](medium/remove-duplicates-from-sorted-list-ii)|
@@ -175,8 +176,10 @@
 |304  |:star::star:      |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](medium/range-sum-query-2d-immutable)|
 |306  |:star:            |[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](medium/additive-number)|
 |322  |:star::star::star:|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](medium/coin-change)|
+|331  |:star::star:      |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[Python](medium/verify-preorder-serialization-of-a-binary-tree)|
 |337  |:star::star:      |[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](medium/house-robber-iii)|
 |355  |:star::star:      |[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](medium/design-twitter)|
+|347  |:star:            |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](medium/top-k-frequent-elements)|
 |377  |:star::star:      |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](medium/combination-sum-iv)|
 |392  |:star:            |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](medium/is-subsequence)|
 |396  |:star:            |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](medium/rotate-function)|
@@ -197,6 +200,7 @@
 |524  |                  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](medium/longest-word-in-dictionary-through-deleting)|
 |525  |:star::star:      |[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](medium/)|
 |526  |                  |[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](medium/beautiful-arrangement)|
+|539  |                  |[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](medium/minimum-time-difference)|
 |540  |:star::star:      |[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python](medium/single-element-in-a-sorted-array)|
 |542  |:star::star:      |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](medium/01-matrix)|
 |554  |                  |[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Python](medium/brick-wall)|
