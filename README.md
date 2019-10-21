@@ -35,6 +35,7 @@
 |206  |:star::star:      |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](easy/reverse-linked-list)|
 |217  |                  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](easy/contains-duplicate)|
 |226  |:star::star:      |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](easy/invert-binary-tree)|
+|231  |                  |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](easy/power-of-two)|
 |234  |:star::star:      |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](easy/palindrome-linked-list)|
 |235  |:star::star:      |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](easy/lowest-common-ancestor-of-a-binary-search-tree)|
 |242  |                  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](easy/valid-anagram)|
@@ -65,6 +66,7 @@
 |559  |:star::star:      |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](easy/maximum-depth-of-n-ary-tree)|
 |572  |:star::star:      |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](easy/subtree-of-another-tree)|
 |581  |:star::star:      |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](easy/shortest-unsorted-continuous-subarray)|
+|589  |:star:            |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](easy/n-ary-tree-preorder-traversal)|
 |598  |                  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](easy/range-addition-ii)|
 |617  |:star::star::star:|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](easy/merge-two-binary-trees)|
 |628  |                  |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](easy/maximum-product-of-three-numbers)|
@@ -162,6 +164,7 @@
 |207  |:star::star:      |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](medium/course-schedule)|
 |208  |:star::star:      |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](medium/implement-trie-prefix-tree)|
 |210  |:star::star:      |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](medium/course-schedule-ii)|
+|213  |:star::star:      |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python](medium/house-robber-ii)|
 |215  |                  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](medium/kth-largest-element-in-an-array)|
 |220  |                  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Golang](medium/contains-duplicate-iii)|
 |221  |:star::star:      |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](medium/maximal-square)|
@@ -225,6 +228,7 @@
 |763  |:star:            |[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](medium/partition-labels)|
 |767  |:star:            |[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](medium/reorganize-string)|
 |769  |:star::star:      |[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](medium/max-chunks-to-make-sorted)|
+|779  |:star:            |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](medium/k-th-symbol-in-grammar)|
 |795  |                  |[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](medium/number-of-subarrays-with-bounded-maximum)|
 |801  |:star:            |[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Python](medium/minimum-swaps-to-make-sequences-increasing)|
 |807  |                  |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](medium/max-increase-to-keep-city-skyline)|
